@@ -50,12 +50,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DouglasZanini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasZanini&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/douglasszanini/">LinkedIn</a> •
-  <a href="https://github.com/DouglasZanini">GitHub</a>
-</p>
